@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/p7uverma/init-ts.git"
+    "url": "git+https://github.com/p7uverma/its-ts-cli.git"
   },
   "keywords": [
     "ts"
@@ -19,9 +19,9 @@
   "author": "Priyanshu Verma",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/p7uverma/init-ts/issues"
+    "url": "https://github.com/p7uverma/its-ts-cli/issues"
   },
-  "homepage": "https://github.com/p7uverma/init-ts#readme",
+  "homepage": "https://github.com/p7uverma/its-ts-cli#readme",
   "dependencies": {
     "commander": "^11.0.0",
     "ncp": "^2.0.0",
