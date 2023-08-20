@@ -4,7 +4,7 @@
   "description": "A cli to create typescript project.",
   "main": "bin/index.js",
   "bin": {
-    "create-ts-app": "./bin/index.js"
+    "its-ts": "./bin/index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
