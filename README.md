@@ -10,7 +10,7 @@ A CLI tool for creating TypeScript projects.
 You can install this CLI tool globally using npm:
 
 ```bash
-npm install -g package-name
+npm install -g its-ts
 ```
 
 ## Usage
