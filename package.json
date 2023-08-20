@@ -1,0 +1,30 @@
+{
+  "name": "its-ts",
+  "version": "1.1.0",
+  "description": "A cli to create typescript project.",
+  "main": "bin/index.js",
+  "bin": {
+    "create-ts-app": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/p7uverma/init-ts.git"
+  },
+  "keywords": [
+    "ts"
+  ],
+  "author": "Priyanshu Verma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/p7uverma/init-ts/issues"
+  },
+  "homepage": "https://github.com/p7uverma/init-ts#readme",
+  "dependencies": {
+    "commander": "^11.0.0",
+    "ncp": "^2.0.0",
+    "yargs": "^17.7.2"
+  }
+}
